@@ -13,15 +13,3 @@ p {
   top: 25%;
   left:calc(50% - 150px);
 }
-
-#ipAddress {
-	font-size: 50px;
-	color: white;
-	text-align: center;
-}
-
-#app {
-	position: absolute;
-	top: 90%;
-	
-}
